@@ -1,0 +1,55 @@
+*{
+	margin: 0px 0px 0px 0px;
+}
+
+.wrap{
+height: 900px;
+width: 	900px;
+/*border: 1px solid black;*/
+
+}
+
+.chess{
+	height:100px;
+	width: 	100px;
+}
+
+.white{
+	background:white;
+	border:1px solid black;
+	box-sizing:border-box;
+}
+
+
+.black{
+	background: #808080;
+	border:1px solid black;
+	box-sizing:border-box;
+}
+
+.col-1{
+	float: 	left;
+}
+
+.col-2{
+	float: 	left;
+}
+
+.grey{
+	font-size: 45px;
+	text-align: center;
+	padding-top: 23px;
+	background: white;
+	/*border:1px solid black;*/
+	box-sizing:border-box;
+}
+
+img{
+
+	height: 100px;
+	padding-left: 6px;
+}
+#white_chess{
+	height: 100px;
+	padding-left: 1px;
+}
